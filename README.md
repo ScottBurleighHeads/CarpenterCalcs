@@ -1,6 +1,6 @@
-# This was a term two project for Coder Academy. I used my knowledge as a carpenter to build a program that can be used to calculate timber lengths and angles. This program will eliminate human error and increase productivity.
+### This was a term two project for Coder Academy. I used my knowledge as a carpenter to build a program that can be used to calculate timber lengths and angles. This program will eliminate human error and increase productivity.
 
-# Carpenters Handy assistant - Scott Malone
+### Carpenters Handy assistant - Scott Malone
 
 Statement of purpose and scope:
 
